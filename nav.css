@@ -49,7 +49,7 @@ nav .menu-btn i{
   cursor: pointer;
   display: none;
 }
-.menu-btn:hover ~ .slideshow {
+nav.menu-btn:hover ~ .slideshow {
   opacity: 0;
   pointer-events: none; 
 }
