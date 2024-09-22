@@ -111,12 +111,13 @@ img {
     height:400px;
     width: 100%;
     object-fit: cover;
+  margin-top:70px;
 }
 /* Slideshow container */
 .slideshow-container {
   max-width: 80%;
   position: relative;
-  margin: auto;
+  margin-top:70px;
 }
 /* Next & previous buttons */
 .prev, .next {
