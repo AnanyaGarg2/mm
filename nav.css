@@ -49,10 +49,6 @@ nav .menu-btn i{
   cursor: pointer;
   display: none;
 }
-nav.menu-btn:hover ~ .slideshow {
-  opacity: 0;
-  pointer-events: none; 
-}
 input[type="checkbox"]{
   display: none;
 }
