@@ -64,6 +64,9 @@ input[type="checkbox"]{
   #click:checked ~ .menu-btn i:before{
     content: "\f00d";
   }
+  nav .menu-btn i:hover.image{
+ opacity:0;
+  }
   nav ul{
     position: fixed;
     top: 80px;
